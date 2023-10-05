@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi, my name is Pankaj Chaudhary
+
+- I'm a recent graduate with a Masters degree in Computer Engineering from Memorial University of Newfoundland.  
+- I’m currently learning about AWS, Angular, data visualization, and UI / UX design.
+- Pronouns: He / Him.
+
+### 👩🏻‍💻 My most used languages & tools:
+
+![Python](https://img.shields.io/badge/-Python-red) ![JavaScript](https://img.shields.io/badge/-JavaScript-orange) ![React](https://img.shields.io/badge/-React-blue) ![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet) ![Figma](https://img.shields.io/badge/-Figma-ff69b4)
+
+
 
 <!--
-**pankaj12-stack/pankaj12-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
